@@ -10,7 +10,7 @@ namespace ArtifactDifficulty {
         public string BaseToken { get; protected set; }
         public string Description { get; protected set; }
         public string Name { get; protected set; }
-
+        sadadasdasd
         public string Tag { get; protected set; }
 
 
